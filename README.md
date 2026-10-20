@@ -1,1 +1,4 @@
-# Hi there , I am Nabihah Hani Kamilia from Universiti Teknologi Malaysia . I am currently pursuing data engineering in software engineering . 
+# Hi, I'm Nabihah Hani Kamilia 👋
+
+- 🎓 Studying **Data Engineering at UTM**
+- 📬 **Email:** nabihahkamilia@gmail.com
